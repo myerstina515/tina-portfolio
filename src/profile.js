@@ -20,8 +20,8 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
-};
+   "Hello! I'm a SDE with previous experience in the medical field, specifically as a Physical Therapist Assistant. It really stretched my customer service (patient service) skills, ability to explain things in a non-technical manner, and to problem solve some of the toughest patients. These skills have served me well in Software Engineering: it has allowed me to connect to and understand clients, as well as help colleagues with concepts they don't have a full understanding of."
+  };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
 const skillsBar = [
@@ -124,20 +124,20 @@ const projects = [
     skills: ["React, CSS3, Bootstrap"],
     url: "https://github.com/myerstina515/shoppies",
   },
-  {
-    // Add image in './styles/images.css' in #project4
-    id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #project5
-    id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #project4
+  //   id: "project4",
+  //   name: "Project 4",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/kaustubhai",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #project5
+  //   id: "project5",
+  //   name: "Project 5",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/kaustubhai",
+  // },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
@@ -154,21 +154,21 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "School Project: ",
-    url: "https://github.com/kaustubhai",
+    name: "Salmon Cookies: Vanilla Javascript",
+    url: "https://github.com/myerstina515/cookie-stand",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    name: "Salmon Cookies: Angular",
+    url: "https://github.com/dinaayoub/salmon-cookies-angular/blob/main/REPORT.md",
   },
-  {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #misc3
+  //   id: "misc3",
+  //   name: "Miscellaneous 3",
+  //   url: "https://github.com/kaustubhai",
+  // },
 ];
 // Contact form text, and Jotforms link
 // To get your own jotform link, go to https://www.jotform.com/
@@ -176,7 +176,7 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    "If you found my portfolio, I would love to hear from you! Let me know how you found me, how I can help you, and how I can get in touch! Thanks for taking time to see what I have to offer!",
   copyright: "Tina Myers",
   contactUrl: "https://formspree.io/f/mwkabqpy",
 };
