@@ -124,13 +124,13 @@ const projects = [
     skills: ["React, CSS3, Bootstrap"],
     url: "https://github.com/myerstina515/shoppies",
   },
-  // {
-  //   // Add image in './styles/images.css' in #project4
-  //   id: "project4",
-  //   name: "Project 4",
-  //   skills: ["HTML, CSS, JS"],
-  //   url: "https://github.com/kaustubhai",
-  // },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project4",
+    name: "Blackjack API",
+    skills: ["Node, Express, MongoDB, Jest(>80% coverage)"],
+    url: "https://github.com/tinamyers-401-advanced-javascript/blackjack",
+  },
   // {
   //   // Add image in './styles/images.css' in #project5
   //   id: "project5",
