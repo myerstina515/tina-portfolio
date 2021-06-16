@@ -30,11 +30,11 @@
 }
 /* Miscelaneous Activities photo */
 .misc1{
-  background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+  background-image: url('../assets/SalmonCookiesOriginal.jpg');
   cursor: none;
 }
 .misc2{
-  background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+  background-image: url('../assets/SalmonCookiesAngular.jpg');
   cursor: none;
 }
 .misc3{
