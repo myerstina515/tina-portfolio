@@ -97,6 +97,10 @@ const skillsBar = [
     name: "DSA",
     faClass: "fas fa-code",
   },
+  {
+    name: "Python",
+    faClass: "fab fa-python",
+  },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
@@ -111,12 +115,13 @@ const projects = [
     url: "https://github.com/myerstina515/tedashitrained",
   },
   {
-    // Add image in './styles/images.css' in #project2
-    id: "project2",
-    name: "Harry Potter Trivia",
-    skills: ["React, Node, MongoDB, SASS, Material-UI, CSS3"],
-    url: "https://github.com/Granger-Danger2021/trivia",
+    // Add image in './styles/images.css' in #project5
+    id: "project5",
+    name: "100 Days of Python",
+    skills: ["React, SCSS, Python"],
+    url: "https://github.com/kaustubhai",
   },
+
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
@@ -131,13 +136,13 @@ const projects = [
     skills: ["Node, Express, MongoDB, Jest(>80% coverage)"],
     url: "https://github.com/tinamyers-401-advanced-javascript/blackjack",
   },
-  // {
-  //   // Add image in './styles/images.css' in #project5
-  //   id: "project5",
-  //   name: "Project 5",
-  //   skills: ["HTML, CSS, JS"],
-  //   url: "https://github.com/kaustubhai",
-  // },
+  {
+    // Add image in './styles/images.css' in #project2
+    id: "project2",
+    name: "Harry Potter Trivia",
+    skills: ["React, Node, MongoDB, SASS, Material-UI, CSS3"],
+    url: "https://github.com/Granger-Danger2021/trivia",
+  },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",

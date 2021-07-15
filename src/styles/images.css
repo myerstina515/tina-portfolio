@@ -6,40 +6,39 @@
 /* Projects Photo */
 .project1{
   background-image: url('../assets/TedashiTrainedImage.jpg');
-  cursor: none;    
+  /* cursor: none;     */
 }
 .project2{
   background-image: url('../assets/GrangerDangerImage.jpg');
-  cursor: none;
 }
 .project3{
   background-image: url('../assets/ShoppiesImage.jpg');
-  cursor: none;
+  /* cursor: none; */
 }
 .project4{
   background-image: url('../assets/BlackjackAPIImage.jpg');
-  cursor: none;
+  /* cursor: none; */
 }
 .project5{
   background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
-  cursor: none;
+  /* cursor: none; */
 }
 .project6{
   background-image: url('../assets/PPUCoordImage.jpg');
-  cursor: none;
+  /* cursor: none; */
 }
 /* Miscelaneous Activities photo */
 .misc1{
   background-image: url('../assets/SalmonCookiesOriginal.jpg');
-  cursor: none;
+  /* cursor: none; */
 }
 .misc2{
   background-image: url('../assets/SalmonCookiesAngular.jpg');
-  cursor: none;
+  /* cursor: none; */
 }
 .misc3{
   background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
-  cursor: none;
+  /* cursor: none; */
 }
 /* Contact form parallax effect image */
 .parallax{
