@@ -119,7 +119,7 @@ const projects = [
     id: "project5",
     name: "100 Days of Python",
     skills: ["React, SCSS, Python"],
-    url: "https://github.com/kaustubhai",
+    url: "https://tinamyers-python.netlify.app/",
   },
 
   {
