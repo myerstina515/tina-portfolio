@@ -190,7 +190,7 @@ const contact = {
 const social = {
   github: "https://github.com/myerstina515",
   linkedin: "http://linkedin.com/in/tinalmyers",
-  resume: "https://docs.google.com/document/d/1QrYh8ivNetQ7v6kLGgoCxRTN-LuWp2YNBgPpFbaOt4U/edit?usp=sharing",
+  resume: "https://docs.google.com/document/d/e/2PACX-1vQFQWYl_sP4uub9mmP5L6WK7z7QRB--ST5epSXIe7ftjFtciybrnEySwEXJMK2kLD0XN7VK9ebNFBE4/pub",
 };
 // Dont change anything here
 export {
